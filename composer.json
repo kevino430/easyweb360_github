@@ -10,5 +10,7 @@
         "psr-4": {
             "YourNamespace\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

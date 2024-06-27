@@ -1,0 +1,13 @@
+{
+    "name": "easyweb360/easyweb360",
+    "description": "A simple example project",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "YourNamespace\\": "src/"
+        }
+    }
+}
